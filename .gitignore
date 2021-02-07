@@ -1,0 +1,11 @@
+#ignoring module examples
+example.ipynb
+hierarchical.ipynb
+inertias.ipynb
+iris.csv
+Kmeans.ipynb
+new_iris_data.csv
+pca.ipynb
+practice.ipynb
+shopping_data_cleaned.csv
+shopping_data.csv
